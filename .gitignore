@@ -1,0 +1,5 @@
+Checkpoints/
+__pycache__/
+*.keras
+*.h5
+.DS_Store
